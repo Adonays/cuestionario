@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+}
+#title{
+    text-align: center;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    margin-bottom: 20px;
+}
+
+.center{
+    text-align: center;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.borderInput{
+    width: 100px;
+    border: 10px;
+}
+#repaso-title{
+    margin-left: 10px;
+}
+ul{
+    list-style-type: decimal;
+}
